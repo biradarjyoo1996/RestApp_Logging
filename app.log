@@ -1,0 +1,30 @@
+2025-02-22T18:31:04.019+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] in.ashokit.RestApiLoggingApplication     : Starting RestApiLoggingApplication using Java 17.0.10 with PID 8764 (C:\IDE\OOPS\Examples\RestApiLogging\target\classes started by DELL in C:\IDE\OOPS\Examples\RestApiLogging)
+2025-02-22T18:31:04.020+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] in.ashokit.RestApiLoggingApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-02-22T18:31:04.259+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9095 (http)
+2025-02-22T18:31:04.261+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-22T18:31:04.263+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-22T18:31:04.286+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-02-22T18:31:04.287+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 263 ms
+2025-02-22T18:31:04.375+05:30  WARN 8764 --- [RestApiLogging] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-02-22T18:31:04.388+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9095 (http) with context path '/'
+2025-02-22T18:31:04.393+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] in.ashokit.RestApiLoggingApplication     : Started RestApiLoggingApplication in 0.425 seconds (process running for 492.785)
+2025-02-22T18:31:04.395+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-02-22T18:31:26.219+05:30  INFO 8764 --- [RestApiLogging] [http-nio-9095-exec-2] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-22T18:31:26.219+05:30  INFO 8764 --- [RestApiLogging] [http-nio-9095-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-02-22T18:31:26.220+05:30  INFO 8764 --- [RestApiLogging] [http-nio-9095-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-02-22T18:31:26.224+05:30  INFO 8764 --- [RestApiLogging] [http-nio-9095-exec-2] in.ashokit.service.MsgService            : getMsg()started....
+2025-02-22T18:31:26.225+05:30  INFO 8764 --- [RestApiLogging] [http-nio-9095-exec-2] in.ashokit.service.MsgService            : getMsg()ended....
+2025-02-22T18:32:30.454+05:30  INFO 8764 --- [RestApiLogging] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-02-22T18:32:30.456+05:30  INFO 8764 --- [RestApiLogging] [Thread-27] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-22T18:32:30.592+05:30  INFO 8764 --- [RestApiLogging] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-02-22T18:32:30.665+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] in.ashokit.RestApiLoggingApplication     : Starting RestApiLoggingApplication using Java 17.0.10 with PID 8764 (C:\IDE\OOPS\Examples\RestApiLogging\target\classes started by DELL in C:\IDE\OOPS\Examples\RestApiLogging)
+2025-02-22T18:32:30.665+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] in.ashokit.RestApiLoggingApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-02-22T18:32:30.889+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9096 (http)
+2025-02-22T18:32:30.891+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-22T18:32:30.891+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-22T18:32:30.911+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-02-22T18:32:30.911+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 242 ms
+2025-02-22T18:32:30.992+05:30  WARN 8764 --- [RestApiLogging] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-02-22T18:32:31.005+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9096 (http) with context path '/'
+2025-02-22T18:32:31.010+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] in.ashokit.RestApiLoggingApplication     : Started RestApiLoggingApplication in 0.375 seconds (process running for 579.402)
+2025-02-22T18:32:31.012+05:30  INFO 8764 --- [RestApiLogging] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged

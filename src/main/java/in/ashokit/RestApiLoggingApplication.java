@@ -10,7 +10,11 @@ public class RestApiLoggingApplication {
 		SpringApplication.run(RestApiLoggingApplication.class, args);
 		int i=10;
 		int j=20;
+
 		int k=30;
+
+		int age=30;
+
 	}
 
 }
